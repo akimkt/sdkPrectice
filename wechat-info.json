@@ -1,0 +1,41 @@
+{
+  "wechatConfig": {
+    "appId": "wxbdfbccec04e2b92a",
+    "store": "FileStore_E:\\itheima86\\weixin\\sdkPrectice\\wechat-info.json"
+  },
+  "globalToken": {
+    "count": 4,
+    "modifyDate": "2019-12-28T13:41:06.079Z",
+    "accessToken": "28_QLapRy4nSNJvOQSF2DCo85Ec3Z92hv-4NSwJvJqht3nf_-RmnLdJ_18IAWQPHrhf_U6NEO8-ZmUHWnADR-BZmpCmBWJVZaKEHPFpAFrAkTKuIZPHIUIQMIH88JQf8BpgZzdnhyOjHxQRN2PvZYOgADAEDT",
+    "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u5oOQIr0mwjivqBONIVepNsCWU20FwS1vOKmownCKdy9auc1U0u9kQ5aODasSWaXjg"
+  },
+  "urls": {
+    "req.query.url": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u5oOQIr0mwjivqBONIVepNsVD0_dheaKaDBaGBtvknilGXq01HDgeLmI6WJs0rkH9w",
+      "nonceStr": "f9gkklps6g8",
+      "timestamp": "1577532464",
+      "url": "req.query.url",
+      "signature": "7fc160e9e9d8a7558bbaf288f113149511fffc8a",
+      "accessToken": "28_1j_6ZXJqAkDCfi2Udv_DeTgaBhlfapczZRI1RVX8XBeulhR43ramTrsNoZrrCzt9EesCDbOld-czVW0mDDK5fTD2Gu7qYiqOfG6f0fPYeZGRPJcTf0QwUkXvaMcptfRDbGk7lNgdZ55MIiJoEGQdAHAOQA",
+      "signatureName": "req.query.url",
+      "createDate": "2019-12-28T09:23:46.260Z",
+      "modifyDate": "2019-12-28T11:27:44.279Z",
+      "updated": true
+    },
+    "http://localhost:3000/": {
+      "jsapi_ticket": "bxLdikRXVbTPdHSM05e5u5oOQIr0mwjivqBONIVepNsCWU20FwS1vOKmownCKdy9auc1U0u9kQ5aODasSWaXjg",
+      "nonceStr": "mmrpwhn37rm",
+      "timestamp": "1577540466",
+      "url": "http://localhost:3000/",
+      "signature": "ca37776e6d305cd28b80b920929afefa1037692b",
+      "accessToken": "28_QLapRy4nSNJvOQSF2DCo85Ec3Z92hv-4NSwJvJqht3nf_-RmnLdJ_18IAWQPHrhf_U6NEO8-ZmUHWnADR-BZmpCmBWJVZaKEHPFpAFrAkTKuIZPHIUIQMIH88JQf8BpgZzdnhyOjHxQRN2PvZYOgADAEDT",
+      "signatureName": "http://localhost:3000/",
+      "createDate": "2019-12-28T11:37:46.403Z",
+      "modifyDate": "2019-12-28T13:41:06.089Z",
+      "updated": true
+    }
+  },
+  "oauth": {},
+  "card": {},
+  "mp": {}
+}
